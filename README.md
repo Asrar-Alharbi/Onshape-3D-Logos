@@ -31,11 +31,3 @@ A clean, precise, and fully-dimensioned 3D model of the **Olympic Rings Logo** d
   * **Center-to-Center Spacing:** $46\text{ mm}$
   * **Extrusion Thickness (Depth):** $5\text{ mm}$
 
----
-
-## 📂 File Structure
-
-```text
-├── Olympic_Logo.stl       # High-resolution STL file for 3D printing
-├── README.md              # Project documentation (This file)
-└── assets/                # Folder containing screenshots/renderings
