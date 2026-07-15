@@ -29,5 +29,5 @@ A clean, precise, and fully-dimensioned 3D model of the **Olympic Rings Logo** d
   * **Outer Ring Diameter:** $50\text{ mm}$
   * **Inner Ring Diameter:** $42\text{ mm}$
   * **Center-to-Center Spacing:** $46\text{ mm}$
-  * **Extrusion Thickness (Depth):** $5\text{ mm}$
+  * **Extrusion Thickness (Depth):** $2\text{ mm}$
 
